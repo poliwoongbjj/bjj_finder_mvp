@@ -76,7 +76,7 @@ npm start
 
 # Start frontend development server (from client directory)
 cd client
-npm start
+npm run dev
 ```
 Express server running on port 4000. 
 
